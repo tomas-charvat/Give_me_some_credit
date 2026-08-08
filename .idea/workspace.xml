@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f23c770-a121-48bc-8096-256171c9ff7d" name="Changes" comment="1st comit">
+    <list default="true" id="9f23c770-a121-48bc-8096-256171c9ff7d" name="Changes" comment="EDA 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Data Dictionary.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/Data Dictionary.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <workItem from="1785672347787" duration="4657000" />
       <workItem from="1785786307610" duration="1531000" />
       <workItem from="1786012372034" duration="6711000" />
-      <workItem from="1786023732810" duration="326000" />
+      <workItem from="1786023732810" duration="4266000" />
     </task>
     <task id="LOCAL-00001" summary="1st comit">
       <option name="closed" value="true" />
@@ -91,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785786415694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EDA 1">
+      <option name="closed" value="true" />
+      <created>1786024111050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786024111050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st comit" />
+    <MESSAGE value="EDA 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="EDA 1" />
   </component>
 </project>
