@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f23c770-a121-48bc-8096-256171c9ff7d" name="Changes" comment="EDA 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Data Dictionary.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/Data Dictionary.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/logistic_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/logistic_regression.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="9f23c770-a121-48bc-8096-256171c9ff7d" name="Changes" comment="Log regresion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +76,7 @@
       <workItem from="1786012372034" duration="6711000" />
       <workItem from="1786023732810" duration="4266000" />
       <workItem from="1786195452865" duration="96000" />
-      <workItem from="1786268024749" duration="8822000" />
+      <workItem from="1786268024749" duration="9471000" />
     </task>
     <task id="LOCAL-00001" summary="1st comit">
       <option name="closed" value="true" />
@@ -107,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786195503230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Log regresion">
+      <option name="closed" value="true" />
+      <created>1786283453735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786283453735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +131,7 @@
     <MESSAGE value="1st comit" />
     <MESSAGE value="EDA 1" />
     <MESSAGE value="EDA 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="EDA 2" />
+    <MESSAGE value="Log regresion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Log regresion" />
   </component>
 </project>
